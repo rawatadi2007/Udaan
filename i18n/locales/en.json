@@ -1,0 +1,125 @@
+{
+  "welcome": {
+    "title": "Udaan Platform",
+    "subtitle": "Gamified Learning for Rural Schools",
+    "description": "An interactive platform designed to make STEM education engaging and accessible for students in rural areas.",
+    "getStarted": "Get Started",
+    "teacherLogin": "Teacher Login",
+    "studentLogin": "Student Login"
+  },
+  "navigation": {
+    "home": "Home",
+    "games": "Games",
+    "progress": "Progress",
+    "profile": "Profile",
+    "settings": "Settings",
+    "teacherDashboard": "Teacher Dashboard"
+  },
+  "games": {
+    "math": "Mathematics",
+    "science": "Science",
+    "coding": "Coding",
+    "logic": "Logic & Puzzles",
+    "play": "Play",
+    "resume": "Resume",
+    "completed": "Completed",
+    "level": "Level",
+    "points": "Points",
+    "stars": "Stars"
+  },
+  "math": {
+    "title": "Mathematics Games",
+    "arithmetic": "Arithmetic",
+    "algebra": "Algebra",
+    "geometry": "Geometry",
+    "statistics": "Statistics",
+    "fractions": "Fractions",
+    "decimals": "Decimals",
+    "percentage": "Percentage"
+  },
+  "science": {
+    "title": "Science Games",
+    "physics": "Physics",
+    "chemistry": "Chemistry",
+    "biology": "Biology",
+    "earthScience": "Earth Science",
+    "experiments": "Virtual Experiments",
+    "simulations": "Simulations"
+  },
+  "coding": {
+    "title": "Coding Games",
+    "scratch": "Visual Programming",
+    "python": "Python Basics",
+    "algorithms": "Algorithm Design",
+    "debugging": "Debugging Challenges",
+    "projects": "Coding Projects"
+  },
+  "logic": {
+    "title": "Logic & Puzzles",
+    "sudoku": "Sudoku",
+    "crossword": "Crossword",
+    "riddles": "Riddles",
+    "pattern": "Pattern Recognition",
+    "strategy": "Strategy Games"
+  },
+  "profile": {
+    "title": "Student Profile",
+    "name": "Name",
+    "grade": "Grade",
+    "school": "School",
+    "language": "Preferred Language",
+    "achievements": "Achievements",
+    "totalPoints": "Total Points",
+    "gamesPlayed": "Games Played",
+    "timeSpent": "Time Spent Learning"
+  },
+  "teacher": {
+    "dashboard": "Teacher Dashboard",
+    "students": "Students",
+    "progress": "Class Progress",
+    "reports": "Reports",
+    "resources": "Teaching Resources",
+    "addStudent": "Add Student",
+    "viewProgress": "View Progress",
+    "exportData": "Export Data"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish",
+    "retry": "Retry",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "offline": "Offline Mode",
+    "online": "Online",
+    "sync": "Sync",
+    "language": "Language"
+  },
+  "achievements": {
+    "firstGame": "First Game Completed",
+    "mathMaster": "Math Master",
+    "scienceExplorer": "Science Explorer",
+    "codingWizard": "Coding Wizard",
+    "logicGenius": "Logic Genius",
+    "persistentLearner": "Persistent Learner",
+    "quickLearner": "Quick Learner",
+    "perfectScore": "Perfect Score"
+  },
+  "feedback": {
+    "correct": "Correct! Well done!",
+    "incorrect": "Not quite right. Try again!",
+    "excellent": "Excellent work!",
+    "good": "Good job!",
+    "keepGoing": "Keep going!",
+    "almostThere": "Almost there!",
+    "perfect": "Perfect!",
+    "congratulations": "Congratulations!"
+  }
+}
+
+
+
+

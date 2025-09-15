@@ -1,0 +1,125 @@
+{
+  "welcome": {
+    "title": "ಉಡಾನ್ ಪ್ಲಾಟ್ಫಾರ್ಮ್",
+    "subtitle": "ಗ್ರಾಮೀಣ ಶಾಲೆಗಳಿಗಾಗಿ ಗೇಮಿಫೈಡ್ ಲರ್ನಿಂಗ್",
+    "description": "ಗ್ರಾಮೀಣ ಪ್ರದೇಶದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗಾಗಿ STEM ಶಿಕ್ಷಣವನ್ನು ಆಕರ್ಷಕ ಮತ್ತು ಪ್ರವೇಶಿಸಬಹುದಾಗಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾದ ಸಂವಾದಾತ್ಮಕ ಪ್ಲಾಟ್ಫಾರ್ಮ್.",
+    "getStarted": "ಪ್ರಾರಂಭಿಸಿ",
+    "teacherLogin": "ಶಿಕ್ಷಕ ಲಾಗಿನ್",
+    "studentLogin": "ವಿದ್ಯಾರ್ಥಿ ಲಾಗಿನ್"
+  },
+  "navigation": {
+    "home": "ಹೋಮ್",
+    "games": "ಗೇಮ್ಗಳು",
+    "progress": "ಪ್ರಗತಿ",
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "settings": "ಸೆಟ್ಟಿಂಗ್ಗಳು",
+    "teacherDashboard": "ಶಿಕ್ಷಕ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್"
+  },
+  "games": {
+    "math": "ಗಣಿತ",
+    "science": "ವಿಜ್ಞಾನ",
+    "coding": "ಕೋಡಿಂಗ್",
+    "logic": "ತರ್ಕ ಮತ್ತು ಒಗಟುಗಳು",
+    "play": "ಆಡಿ",
+    "resume": "ಮುಂದುವರಿಸಿ",
+    "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "level": "ಮಟ್ಟ",
+    "points": "ಅಂಕಗಳು",
+    "stars": "ನಕ್ಷತ್ರಗಳು"
+  },
+  "math": {
+    "title": "ಗಣಿತದ ಆಟಗಳು",
+    "arithmetic": "ಅಂಕಗಣಿತ",
+    "algebra": "ಬೀಜಗಣಿತ",
+    "geometry": "ಜ್ಯಾಮಿತಿ",
+    "statistics": "ಸಂಖ್ಯಾಶಾಸ್ತ್ರ",
+    "fractions": "ಭಿನ್ನರಾಶಿಗಳು",
+    "decimals": "ದಶಮಾಂಶಗಳು",
+    "percentage": "ಶೇಕಡಾವಾರು"
+  },
+  "science": {
+    "title": "ವಿಜ್ಞಾನದ ಆಟಗಳು",
+    "physics": "ಭೌತಶಾಸ್ತ್ರ",
+    "chemistry": "ರಸಾಯನಶಾಸ್ತ್ರ",
+    "biology": "ಜೀವಶಾಸ್ತ್ರ",
+    "earthScience": "ಭೂ ವಿಜ್ಞಾನ",
+    "experiments": "ವರ್ಚುವಲ್ ಪ್ರಯೋಗಗಳು",
+    "simulations": "ಸಿಮ್ಯುಲೇಶನ್‌ಗಳು"
+  },
+  "coding": {
+    "title": "ಕೋಡಿಂಗ್ ಆಟಗಳು",
+    "scratch": "ವಿಷುಯಲ್ ಪ್ರೋಗ್ರಾಮಿಂಗ್",
+    "python": "ಪೈಥಾನ್ ಬೇಸಿಕ್ಸ್",
+    "algorithms": "ಅಲ್ಗಾರಿದಮ್ ವಿನ್ಯಾಸ",
+    "debugging": "ಡಿಬಗ್‌ಗಿಂಗ್ ಸವಾಲುಗಳು",
+    "projects": "ಕೋಡಿಂಗ್ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳು"
+  },
+  "logic": {
+    "title": "ತರ್ಕ ಮತ್ತು ಒಗಟುಗಳು",
+    "sudoku": "ಸುಡೋಕು",
+    "crossword": "ಕ್ರಾಸ್‌ವರ್ಡ್",
+    "riddles": "ಒಗಟುಗಳು",
+    "pattern": "ಮಾದರಿ ಗುರುತಿಸುವಿಕೆ",
+    "strategy": "ತಂತ್ರ ಆಟಗಳು"
+  },
+  "profile": {
+    "title": "ವಿದ್ಯಾರ್ಥಿ ಪ್ರೊಫೈಲ್",
+    "name": "ಹೆಸರು",
+    "grade": "ತರಗತಿ",
+    "school": "ಶಾಲೆ",
+    "language": "ಅಭಿಮತ ಭಾಷೆ",
+    "achievements": "ಸಾಧನೆಗಳು",
+    "totalPoints": "ಒಟ್ಟು ಅಂಕಗಳು",
+    "gamesPlayed": "ಆಡಿದ ಆಟಗಳು",
+    "timeSpent": "ಕಲಿಕೆಯಲ್ಲಿ ಕಳೆದ ಸಮಯ"
+  },
+  "teacher": {
+    "dashboard": "ಶಿಕ್ಷಕ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "students": "ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "progress": "ತರಗತಿ ಪ್ರಗತಿ",
+    "reports": "ವರದಿಗಳು",
+    "resources": "ಶಿಕ್ಷಣ ಸಂಪನ್ಮೂಲಗಳು",
+    "addStudent": "ವಿದ್ಯಾರ್ಥಿಯನ್ನು ಸೇರಿಸಿ",
+    "viewProgress": "ಪ್ರಗತಿಯನ್ನು ವೀಕ್ಷಿಸಿ",
+    "exportData": "ಡೇಟಾವನ್ನು ರಫ್ತು ಮಾಡಿ"
+  },
+  "common": {
+    "save": "ಉಳಿಸಿ",
+    "cancel": "ರದ್ದುಗೊಳಿಸಿ",
+    "back": "ಹಿಂದಕ್ಕೆ",
+    "next": "ಮುಂದಕ್ಕೆ",
+    "finish": "ಮುಗಿಸಿ",
+    "retry": "ಮರುಪ್ರಯತ್ನಿಸಿ",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "error": "ದೋಷ",
+    "success": "ಯಶಸ್ಸು",
+    "offline": "ಆಫ್‌ಲೈನ್ ಮೋಡ್",
+    "online": "ಆನ್‌ಲೈನ್",
+    "sync": "ಸಿಂಕ್",
+    "language": "ಭಾಷೆ"
+  },
+  "achievements": {
+    "firstGame": "ಮೊದಲ ಆಟ ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "mathMaster": "ಗಣಿತ ಮಾಸ್ಟರ್",
+    "scienceExplorer": "ವಿಜ್ಞಾನ ಅನ್ವೇಷಕ",
+    "codingWizard": "ಕೋಡಿಂಗ್ ಮಾಂತ್ರಿಕ",
+    "logicGenius": "ತರ್ಕ ಪ್ರತಿಭೆ",
+    "persistentLearner": "ನಿರಂತರ ಕಲಿಕೆ",
+    "quickLearner": "ತ್ವರಿತ ಕಲಿಕೆ",
+    "perfectScore": "ಪರಿಪೂರ್ಣ ಸ್ಕೋರ್"
+  },
+  "feedback": {
+    "correct": "ಸರಿ! ಚೆನ್ನಾಗಿದೆ!",
+    "incorrect": "ಸರಿಯಾಗಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ!",
+    "excellent": "ಅತ್ಯುತ್ತಮ ಕೆಲಸ!",
+    "good": "ಒಳ್ಳೆಯ ಕೆಲಸ!",
+    "keepGoing": "ಮುಂದುವರಿಸಿ!",
+    "almostThere": "ಬಹುತೇಕ ಅಲ್ಲಿಗೆ!",
+    "perfect": "ಪರಿಪೂರ್ಣ!",
+    "congratulations": "ಅಭಿನಂದನೆಗಳು!"
+  }
+}
+
+
+
+

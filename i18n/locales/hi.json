@@ -1,0 +1,125 @@
+{
+  "welcome": {
+    "title": "उड़ान प्लेटफॉर्म",
+    "subtitle": "ग्रामीण स्कूलों के लिए गेमिफाइड लर्निंग",
+    "description": "ग्रामीण क्षेत्रों के छात्रों के लिए STEM शिक्षा को आकर्षक और सुलभ बनाने के लिए डिज़ाइन किया गया एक इंटरैक्टिव प्लेटफॉर्म।",
+    "getStarted": "शुरू करें",
+    "teacherLogin": "शिक्षक लॉगिन",
+    "studentLogin": "छात्र लॉगिन"
+  },
+  "navigation": {
+    "home": "होम",
+    "games": "गेम्स",
+    "progress": "प्रगति",
+    "profile": "प्रोफाइल",
+    "settings": "सेटिंग्स",
+    "teacherDashboard": "शिक्षक डैशबोर्ड"
+  },
+  "games": {
+    "math": "गणित",
+    "science": "विज्ञान",
+    "coding": "कोडिंग",
+    "logic": "तर्क और पहेलियाँ",
+    "play": "खेलें",
+    "resume": "जारी रखें",
+    "completed": "पूर्ण",
+    "level": "स्तर",
+    "points": "अंक",
+    "stars": "तारे"
+  },
+  "math": {
+    "title": "गणित के खेल",
+    "arithmetic": "अंकगणित",
+    "algebra": "बीजगणित",
+    "geometry": "ज्यामिति",
+    "statistics": "सांख्यिकी",
+    "fractions": "भिन्न",
+    "decimals": "दशमलव",
+    "percentage": "प्रतिशत"
+  },
+  "science": {
+    "title": "विज्ञान के खेल",
+    "physics": "भौतिकी",
+    "chemistry": "रसायन विज्ञान",
+    "biology": "जीव विज्ञान",
+    "earthScience": "पृथ्वी विज्ञान",
+    "experiments": "आभासी प्रयोग",
+    "simulations": "सिमुलेशन"
+  },
+  "coding": {
+    "title": "कोडिंग के खेल",
+    "scratch": "विजुअल प्रोग्रामिंग",
+    "python": "पायथन बेसिक्स",
+    "algorithms": "एल्गोरिदम डिजाइन",
+    "debugging": "डिबगिंग चुनौतियाँ",
+    "projects": "कोडिंग प्रोजेक्ट्स"
+  },
+  "logic": {
+    "title": "तर्क और पहेलियाँ",
+    "sudoku": "सुडोकू",
+    "crossword": "क्रॉसवर्ड",
+    "riddles": "पहेलियाँ",
+    "pattern": "पैटर्न पहचान",
+    "strategy": "रणनीति खेल"
+  },
+  "profile": {
+    "title": "छात्र प्रोफाइल",
+    "name": "नाम",
+    "grade": "कक्षा",
+    "school": "स्कूल",
+    "language": "पसंदीदा भाषा",
+    "achievements": "उपलब्धियाँ",
+    "totalPoints": "कुल अंक",
+    "gamesPlayed": "खेले गए खेल",
+    "timeSpent": "सीखने में लगा समय"
+  },
+  "teacher": {
+    "dashboard": "शिक्षक डैशबोर्ड",
+    "students": "छात्र",
+    "progress": "कक्षा प्रगति",
+    "reports": "रिपोर्ट्स",
+    "resources": "शिक्षण संसाधन",
+    "addStudent": "छात्र जोड़ें",
+    "viewProgress": "प्रगति देखें",
+    "exportData": "डेटा निर्यात करें"
+  },
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "back": "वापस",
+    "next": "आगे",
+    "finish": "समाप्त",
+    "retry": "पुनः प्रयास",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "offline": "ऑफलाइन मोड",
+    "online": "ऑनलाइन",
+    "sync": "सिंक",
+    "language": "भाषा"
+  },
+  "achievements": {
+    "firstGame": "पहला खेल पूरा",
+    "mathMaster": "गणित मास्टर",
+    "scienceExplorer": "विज्ञान अन्वेषक",
+    "codingWizard": "कोडिंग जादूगर",
+    "logicGenius": "तर्क प्रतिभा",
+    "persistentLearner": "लगातार सीखने वाला",
+    "quickLearner": "तेज सीखने वाला",
+    "perfectScore": "पूर्ण स्कोर"
+  },
+  "feedback": {
+    "correct": "सही! बहुत बढ़िया!",
+    "incorrect": "बिल्कुल सही नहीं। फिर से कोशिश करें!",
+    "excellent": "उत्कृष्ट काम!",
+    "good": "अच्छा काम!",
+    "keepGoing": "चलते रहो!",
+    "almostThere": "लगभग वहाँ!",
+    "perfect": "बिल्कुल सही!",
+    "congratulations": "बधाई हो!"
+  }
+}
+
+
+
+
